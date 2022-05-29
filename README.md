@@ -1,2 +1,2 @@
 # Auto-search-job
-Automation login in linkedin and search for software engineering jobs. 
+Automation login in linkedin and search for software engineering jobs using Selenium lib.
